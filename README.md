@@ -4,7 +4,7 @@ Contributor: Blessings Kaleo and Gorette Mulundano
 
 ## Contributors
 - Blessings Kaleo (GitHub: kaleo105)
-- Gorette Mulunda (GitHub: mulundanogorette-art)
+- Gorette Mulundano (GitHub: mulundanogorette-art)
 
 ## Description
 This repository contains Week 1 Git lab activities completed collaboratively.
